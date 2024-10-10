@@ -1,1 +1,1 @@
-# BMICalculator_in_Python
+# BMICalculator in Python
