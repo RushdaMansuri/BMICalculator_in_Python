@@ -58,6 +58,6 @@ Make sure you have the following installed:
 - If the user inputs a non-numeric value, an error message will be displayed.
 - If the height is set to zero, the application will prompt the user to enter a valid height.
 
-## Usage
+## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
