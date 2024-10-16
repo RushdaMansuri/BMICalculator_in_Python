@@ -11,4 +11,7 @@ font1 = ("Arial", 30, "bold")
 font2 = ("Arial", 30, "bold")
 font3 = ("Arial", 30, "bold")
 
+title_label = customtkinter.CTkLabel(app, font=font1, text="BMI Calculator")
+title_label.place(x=20, y=20)
+
 app.mainloop()
