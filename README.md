@@ -29,12 +29,12 @@ Make sure you have the following installed:
 2. Navigate to the Project directory:
 
    ```bash
-   git clone https://github.com/RushdaMansuri/BMICalculator_in_Python.git
+   cd BMICalculator_in_Python
    ```
 
 3. Install the required dependencies:
    ```bash
-   git clone https://github.com/RushdaMansuri/BMICalculator_in_Python.git
+   pip install customtkinter
    ```
 
 ## Usage
